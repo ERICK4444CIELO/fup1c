@@ -1,0 +1,15 @@
+/*PROGRAMA  PRIMER PROGRAMA 
+DEL  MUNDO  MUNDIAL
+PARA   VARIOS  COMENTARIOS
+*/
+
+#include<stdio.h>//LIBRERIA  DE  ENTRADA  Y SALIDA
+int main()
+{//INICIO 
+
+         printf("HOLA  GUAPO METROSEXUAL    ");	
+
+
+
+}//FIN
+   
